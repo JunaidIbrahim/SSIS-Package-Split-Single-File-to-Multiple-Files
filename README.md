@@ -1,0 +1,2 @@
+# SSIS-Package-Split-Single-File-to-Multiple-Files
+This SQL Server Integration Services SSIS Package Will Split Single txt, csv, xlsx, xls, excel, sql files into Multiples Files based of Given Number of Rows. Example if you have txt file that contais 100 and you want to have 12 Rows in each file, So you will have 8 Files, each file contais 12 Rows and 1 file will have 4 Rows (Remaining or Leftover Rows).
